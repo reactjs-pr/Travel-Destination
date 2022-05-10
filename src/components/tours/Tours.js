@@ -1,15 +1,17 @@
-import Footer from "../footer/Footer";
+import './Tours.css'
 function Tours(props) {
     return(
-        <>
-        <div>
-        <p>
-            {props.name}
-        </p>
-        <img src={props.image} alt="SSSS"/> 
 
-        </div>
-        </>
+
+                <div className='tours-section'>
+                    <p>
+                        {props.name}
+                    </p>
+                    <img src={props.image} alt="SSSS"/> 
+                </div>
+
+
+
         )
 }
 export default Tours;

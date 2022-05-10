@@ -1,3 +1,49 @@
+
+/**************************************************** footer style *******************************/
+/*********************************** section 1 footer *********************************************/
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    height: 180px;
+    background-color: rgb(128, 122, 122);
+    max-width: 100%;
+}
+.section1-footer{
+    margin-left: 10%;
+    margin-top: 15px;
+    
+}
+.section1-footer p:nth-child(1){
+    font-size: 23px;
+    margin-top: 10px;
+    color: white;
+}
+.section1-footer p:nth-child(2){
+    font-size: 17px;
+    margin-top: 10px;
+    color: white;
+}
+.section1-footer p:nth-child(3){
+    font-size: 18px;
+    margin-top: 10px;
+    color: white;
+}
+
+.section1-footer p:nth-child(4){
+    font-size: 18px;
+    margin-top: 10px;
+    
+}
+.section1-footer p:nth-child(4) a{
+    text-decoration: none;
+    color: blue;
+}
+/**************************************** social media footer right section *******************************/
+.social-buttons{
+    margin-top: 5%;
+    margin-right: 10%;
+}
 .social-buttons a {
     display: inline-flex;
     text-decoration: none;
@@ -35,43 +81,4 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     transform: scale(2.2);
-}
-
-/**************************************************** footer style *******************************/
-footer{
-    display: flex;
-    justify-content: space-between;
-    margin-top: 50px;
-    height: 180px;
-    background-color: blueviolet;
-}
-.section1-footer{
-    margin-left: 30px;
-    margin-top: 15px;
-    
-}
-.section1-footer p:nth-child(1){
-    font-size: 23px;
-    margin-top: 10px;
-    color: white;
-}
-.section1-footer p:nth-child(2){
-    font-size: 17px;
-    margin-top: 10px;
-    color: white;
-}
-.section1-footer p:nth-child(3){
-    font-size: 18px;
-    margin-top: 10px;
-    color: white;
-}
-
-.section1-footer p:nth-child(4){
-    font-size: 18px;
-    margin-top: 10px;
-    
-}
-.section1-footer p:nth-child(4) a{
-    text-decoration: none;
-    color: blue;
 }

@@ -18,23 +18,17 @@ return (
                 Amman-jordan
             </p>
             <p>
-                <a href="">@copyright:Salehziad</a>
+                <a href="">@copyright:Salehziad&ahmadhelwa</a>
             </p>
         </div>
-
         <div class="social-buttons">
-                    <a target="_blank" href="https://www.facebook.com/profile.php?id=100005955198338"><i
-                            class="fab fa-facebook"></i></a>
-                    <a target="blank" href="https://instagram.com/saleh.dalalshh?igshid=YmMyMTA2M2Y="><i
-                            class="fab fa-instagram"></i></a>
                     <a target="_blank" href="https://www.linkedin.com/in/saleh-ziad-6b40a1214"><i
                             class="fab fa-linkedin-in"></i></a>
                     <a target="_blank" href="https://github.com/Salehziad"><i class="fab fa-github"></i></a>
+                    <a target="_blank" href="https://www.linkedin.com/in/ahmad-h-0155b9125/"><i
+                            class="fab fa-linkedin-in"></i></a>
+                    <a target="_blank" href="https://github.com/ahmadhelwa"><i class="fab fa-github"></i></a>
                 </div>
-
-
-
-
 </div>
 
 )
