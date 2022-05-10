@@ -12,17 +12,22 @@ background-color: rgb(133, 124, 124);
 
 } */
 
-div{
-   
-    height: 100px;
+div {
+
     background-color: rgb(133, 124, 124);
 }
-div ul li{
+
+div ul li {
     list-style-type: none;
+
+    color: black;
     
-color: black;
 }
+
 div ul {
     display: flex;
     justify-content: center;
+    height: 50px;
+    text-align: center;
+    padding: 20px;
 }

@@ -10,10 +10,10 @@ return (
 <div>
     <ul>
         <li>
-            home 
+            Home 
         </li>
         <li>
-            about
+            About
         </li>
     </ul>
 </div>
