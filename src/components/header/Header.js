@@ -9,12 +9,10 @@ return (
 
 <div>
     <ul>
-        <li>
-            Home 
-        </li>
-        <li>
-            About
-        </li>
+     <li>
+      <a href="#">HOME</a>
+     </li>
+       
     </ul>
 </div>
 
