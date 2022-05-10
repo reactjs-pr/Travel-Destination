@@ -1,0 +1,38 @@
+/* 
+.header
+{
+div{
+    color: ;
+}
+display: flex;
+justify-content: center;
+height: 100px;
+background-color: rgb(133, 124, 124);
+
+
+} */
+
+div {
+
+}
+
+div ul li {
+
+    list-style-type: none;
+    padding-top: 12px;
+    background-color: rgb(87, 85, 85);
+    height: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+div ul {
+    display: flex;
+    justify-content: center;   
+}
+a {
+    
+    color: wheat;
+    text-decoration: none;
+    color: rgb(222, 207, 207);
+}
