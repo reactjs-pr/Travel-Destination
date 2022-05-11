@@ -4,7 +4,6 @@
 .footer{
     display: flex;
     justify-content: space-between;
-    margin-top: 50px;
     height: 180px;
     background-color: rgb(128, 122, 122);
     max-width: 100%;
