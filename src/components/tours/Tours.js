@@ -1,15 +1,9 @@
-import Tour from "./tour/Tour"
+import Tour from "./tour/Tour";
 
-export default function Tours()
-{
-
-
-
-return(
+export default function Tours() {
+  return (
     <>
-    <Tour/>
+      <Tour />
     </>
-)
-
-
+  );
 }
