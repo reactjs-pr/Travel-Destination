@@ -6,19 +6,23 @@
     grid-template-columns: auto;
 }
 
-
+#more-info{
+  
+}
 
 .tours-section{
     padding-top: 4%;
 }
 /****** paragraph stsyle */
 
-/* .tours-section p{
-
-} */
+.tours-section p{
+    margin-bottom: 2%;
+    font-size: 25px;
+}
 /****** image stsyle */
  .tours-section  img{
      text-align: center;
     width: 450px;
     max-height: 300px;
+    border-radius: 10%;
 }
