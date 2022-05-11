@@ -1,0 +1,23 @@
+.box{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+        display: grid;
+    grid-template-columns: auto;
+}
+
+
+
+/****** paragraph stsyle */
+
+ p{
+    margin-bottom: 2%;
+    font-size: 25px;
+}
+/****** image stsyle */
+   img{
+     text-align: center;
+    width: 450px;
+    max-height: 300px;
+    border-radius: 10%;
+}

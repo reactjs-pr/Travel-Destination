@@ -1,23 +1,16 @@
 import './Header.css';
+import Navbar from '../Navbar/Navbar';
 
 function Header()
 {
 
-
-
 return (
 
-<div>
-    <ul>
-     <li>
-      <a href="#">HOME</a>
-     </li>
-       
-    </ul>
-</div>
+<>
 
+<Navbar/>
 
-
+</>
 )
 
 
