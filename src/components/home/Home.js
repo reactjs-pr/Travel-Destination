@@ -1,7 +1,8 @@
 import Header from "../header/Header";
 import Footer from "../footer/Footer";
 import './Home.css'
-import Tours from '../tours/Tours';
+// import Tours from '../tours/Tours';
+import Tour from "../tours/tour/Tour";
 import  cityData from '../data/db.json'
 function Home(){
     return(
@@ -11,7 +12,8 @@ function Home(){
             {
             cityData.map(city=>{
                 return(
-                    <Tours name={city.name} image={city.image}/>
+                    <Tour name={city.name} image={city.image} id={city.id}/>
+
                 )         
             })
         }

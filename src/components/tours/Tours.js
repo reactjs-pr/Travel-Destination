@@ -1,19 +1,15 @@
-import './Tours.css'
-function Tours(props) {
+import Tour from "./tour/Tour"
 
-    return(
+export default function Tours()
+{
 
-<>
-                <div className='tours-section'>
-                    <p>
-                        {props.name}
-                    </p>
-                    <img src={props.image} alt="SSSS"/>
 
-                </div>
 
-                </>
-        )
-        
+return(
+    <>
+    <Tour/>
+    </>
+)
+
+
 }
-export default Tours;

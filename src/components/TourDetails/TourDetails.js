@@ -1,5 +1,11 @@
+import Navbar from "../Navbar/Navbar"
 export default function TourDetails(){
     return(
-        <h1>TourDetails</h1>
+        <>
+        <Navbar/>
+                <h1>TourDetails</h1>
+
+        
+        </>
     )
 }
