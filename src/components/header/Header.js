@@ -1,4 +1,5 @@
 import './Header.css';
+import Navbar from '../Navbar/Navbar';
 
 function Header()
 {
@@ -6,18 +7,10 @@ function Header()
 
 
 return (
+    <>
+<Navbar/>
 
-<div>
-    <ul>
-     <li>
-      <a href="#">HOME</a>
-     </li>
-       
-    </ul>
-</div>
-
-
-
+</>
 )
 
 
